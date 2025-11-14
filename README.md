@@ -85,7 +85,7 @@ pip install -r requirements.txt
 
 4. **Set up OpenAI API key** (optional, for AI features)
 ```bash
-export OPENAI_API_KEY='your-api-key-here'  # On Windows: set OPENAI_API_KEY=your-api-key-here
+export OPENAI_API_KEY='your-api-key-here'  
 ```
 
 ## Usage
@@ -119,7 +119,7 @@ The application will open in your default browser at `http://localhost:8501`
  expertise through  customizable filtering and
  visualization tools
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 | Metric | Value |
 |--------|-------|
@@ -129,7 +129,7 @@ The application will open in your default browser at `http://localhost:8501`
 | Report Generation | < 2 seconds |
 | Supported File Size | Up to 1GB |
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 DATATHON_2025.py
