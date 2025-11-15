@@ -190,7 +190,7 @@ streamlit-chat==0.1.1
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
 ## Co-author
 
