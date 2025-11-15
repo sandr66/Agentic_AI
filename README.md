@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-**Agentic AI** is an award-winning intelligent system that revolutionizes data processing through automated anomaly detection and comprehensive reporting. This platform secured **1st Place at the GenAI Datathon 2025**, competing against 150+ participants from Romania and France.
+**Agentic AI** is an award-winning intelligent system that enables data processing through automated anomaly detection and comprehensive reporting. This platform secured **1st Place at the GenAI Datathon 2025**, competing against 150+ participants from Romania and France.
 
 ### Key Aspects
 - **1st Place Winner** -> GenAI Datathon 2025
@@ -125,9 +125,7 @@ The application will open in your default browser at `http://localhost:8501`
 |--------|-------|
 | Accuracy | 94% |
 | Processing Speed | 10,000+ records/sec |
-| False Positive Rate | < 5% |
-| Report Generation | < 2 seconds |
-| Supported File Size | Up to 1GB |
+| Report Generation | < 10 seconds |
 
 ## Architecture
 
@@ -205,7 +203,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - **Société Générale** - For sponsoring the datathon and providing real-world challenges
-- **GenAI Datathon Organizers** - For creating this competitive platform
+- **Societatea Antreprenoriala Studenteasca ASE Bucuresti & MBA ESG Paris** - For creating this competitive context
 - **Team Members** - For their dedication during the 48-hour challenge
 - **ASE Bucharest** - For academic support and resources
 
