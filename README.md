@@ -190,14 +190,6 @@ streamlit-chat
 
 This project is licensed under the MIT License 
 
-## Co-author of this project
-
-**Sandra-Georgiana Butnariu**
-- GenAI Datathon 2025 Team Captain
-- Email: butnariusandra@yahoo.com
-- LinkedIn: [Sandra Butnariu](https://www.linkedin.com/in/sandra-georgiana-butnariu-4078a531b/)
-- GitHub: [@sandrabutnariu](https://github.com/sandr66)
-
 ## Acknowledgments
 
 - **Société Générale** - For sponsoring the datathon and providing real-world challenges
