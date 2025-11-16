@@ -165,11 +165,6 @@ DATATHON_2025.py
 - **Duration**: 48 hours
 - **Result**: 1st Place
 
-### Team Composition
-- **Team Captain**: Sandra-Georgiana Butnariu
-- **Team Size**: 10 members
-- **Expertise**: Data Science, ML Engineering, Financial & Data Analysis, Programming
-
 ## Requirements
 
 ```txt
