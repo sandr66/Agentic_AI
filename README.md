@@ -5,50 +5,50 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## Project Overview
+## Project overview
 
 **Agentic AI** is an award-winning intelligent system that enables data processing through automated anomaly detection and comprehensive reporting. This platform secured **1st Place at the GenAI Datathon 2025**, competing against 150+ participants from Romania and France.
 
-### Key Aspects
-- **1st Place Winner** -> GenAI Datathon 2025
-- **94% Accuracy** -> In anomaly detection across financial datasets
-- **Real-time Processing** -> Handles 10,000+ data points per second
+### Key aspects
+- **1st Place winner** -> GenAI Datathon 2025
+- **94% accuracy** -> In anomaly detection across financial datasets
+- **Real-time processing** -> Handles 10,000+ data points per second
 - Developed in collaboration with Société Générale
 
 ##  Features
 
-### Core Capabilities
-- Leverages **OpenAI** for intelligent data interpretation
-- **Advanced Anomaly Detection** through multi-algorithm approach using Isolation Forest
-- **Interactive Dashboard** -> Real-time visualization with Streamlit
-- **Automated Report Generation** -> Professional PDF reports using ReportLab
-- **Chat Interface** -> Interactive AI assistant for data exploration
+### Core capabilities
+- Leverages **OpenAI** for data interpretation
+- **Advanced anomaly detection** through multi-algorithm approach using Isolation Forest
+- **Interactive dashboard** -> Real-time visualization with Streamlit
+- **Automated report generation** -> PDF reports using ReportLab
+- **Chat interface** -> Interactive AI assistant for data exploration
 
-### Technical Highlights
-- **Machine Learning Pipeline**: Automated feature engineering with StandardScaler and LabelEncoder
-- **Multi-format Support**: Processes CSV and Excel
-- **Custom Styling**: Professional report generation with customizable templates
-- **Error Handling**: Robust warning suppression and data validation
-- **Scalable Architecture**: Modular design for easy extension
+### Technical highlights
+- **Machine Learning pipeline**: Automated feature engineering with StandardScaler and LabelEncoder
+- **Multi-format support**: Processes CSV and Excel
+- **Custom styling**: Report generation with customizable templates
+- **Error handling**: Robust warning suppression and data validation
+- **Scalable architecture**: Modular design for easy extension
 
-## Technology Stack
+## Technology stack
 
-### Data Processing & ML
+### Data processing & ML
 - **pandas** - Data manipulation and analysis
 - **numpy** - Numerical computing
 - **scikit-learn** - Machine learning algorithms (IsolationForest, preprocessing)
 
-### Visualization & Interface
+### Visualization & interface
 - **streamlit** - Interactive web application
 - **altair** - Declarative visualization
 - **matplotlib** - Advanced plotting capabilities
 
-### Document Generation
+### Document generation
 - **reportlab** - PDF creation with custom styling
 - **openpyxl** - Excel file manipulation
 - **BytesIO** - In-memory file handling
 
-### AI Integration
+### AI integration
 - **OpenAI API** - Natural language processing and insights
 - **streamlit-chat** - Conversational interface
 
@@ -62,13 +62,13 @@
 ### Prerequisites
 - Python 3.8 or higher
 - pip package manager
-- Virtual environment (recommended)
+- Virtual environment
 
-### Setup Instructions
+### Setup instructions
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/sandrabutnariu/agentic-ai-datathon.git
+git clone https://github.com/sandr66/agentic-ai-datathon.git
 cd agentic-ai-datathon
 ```
 
@@ -90,7 +90,7 @@ export OPENAI_API_KEY='your-api-key-here'
 
 ## Usage
 
-### Running the Application
+### Running the application
 
 ```bash
 streamlit run DATATHON_2025.py
@@ -100,7 +100,7 @@ The application will open in your default browser at `http://localhost:8501`
 
 ### Workflow
 
-1. **Data Upload** - Import your dataset (CSV/Excel)
+1. **Data upload** - Import your dataset (CSV/Excel)
 2. **Preprocessing** - Automatic data cleaning and preparation
 3. **Analysis** - Choose analysis type:
    - Anomaly Detection
@@ -110,22 +110,20 @@ The application will open in your default browser at `http://localhost:8501`
 5. **Report Generation** - Export professional PDF reports
 6. **AI Consultation** - Chat with AI for deeper insights
 
-### Example Use Cases
+### Example Use-Cases
 
-- **Data Anomaly Detection** - Identify incorrect/incorrectly reported data
-- **Quality Control** - The generated Anomaly Report (PDF) can be used for Audit Reports
-- **Chatbot Interface** - Non-technical users can inquire anything about the provided data
-- **Visual Analytics Capabilities** - Enables business professionals to extract insights without technical
- expertise through  customizable filtering and
- visualization tools
+- **Data anomaly detection** - Identify incorrect/incorrectly reported data
+- **Quality control** - The generated Anomaly Report (PDF) can be used for Audit Reports
+- **Chatbot interface** - Non-technical users can inquire anything about the provided data
+- **Visual analytics capabilities** - Enables business professionals to extract insights without technical expertise through customizable filtering and visualization tools
 
-## Performance Metrics
+## Performance metrics
 
 | Metric | Value |
 |--------|-------|
 | Accuracy | 94% |
-| Processing Speed | 10,000+ records/sec |
-| Report Generation | < 10 seconds |
+| Processing speed | 10,000+ records/sec |
+| Report generation | < 10 seconds |
 
 ## Architecture
 
@@ -157,7 +155,7 @@ DATATHON_2025.py
     └── Insight Generation
 ```
 
-## Competition Context
+## Competition context
 
 ### GenAI Datathon 2025
 - **Date**: 15-17 September 2025
@@ -170,32 +168,32 @@ DATATHON_2025.py
 ### Team Composition
 - **Team Captain**: Sandra-Georgiana Butnariu
 - **Team Size**: 10 members
-- **Expertise**: Data Science, ML Engineering, Financial Analysis
+- **Expertise**: Data Science, ML Engineering, Financial & Data Analysis, Programming
 
 ## Requirements
 
 ```txt
-streamlit==1.28.0
-pandas==2.0.3
-numpy==1.24.3
-scikit-learn==1.3.0
-openpyxl==3.1.2
-openai==0.28.0
-reportlab==4.0.4
-python-dateutil==2.8.2
-altair==5.0.1
-matplotlib==3.7.2
-streamlit-chat==0.1.1
+streamlit
+pandas
+numpy
+scikit-learn
+openpyxl
+openai
+reportlab
+python-dateutil
+altair
+matplotlib
+streamlit-chat
 ```
 
 ## License
 
 This project is licensed under the MIT License 
 
-## Co-author
+## Co-author of this project
 
 **Sandra-Georgiana Butnariu**
-- GenAI Datathon 2025 Team Captain of the winning team
+- GenAI Datathon 2025 Team Captain
 - Email: butnariusandra@yahoo.com
 - LinkedIn: [Sandra Butnariu](https://www.linkedin.com/in/sandra-georgiana-butnariu-4078a531b/)
 - GitHub: [@sandrabutnariu](https://github.com/sandr66)
