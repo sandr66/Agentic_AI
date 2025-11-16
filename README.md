@@ -165,22 +165,6 @@ DATATHON_2025.py
 - **Duration**: 48 hours
 - **Result**: 1st Place
 
-## Requirements
-
-```txt
-streamlit
-pandas
-numpy
-scikit-learn
-openpyxl
-openai
-reportlab
-python-dateutil
-altair
-matplotlib
-streamlit-chat
-```
-
 ## License
 
 This project is licensed under the MIT License 
