@@ -11,7 +11,6 @@
 
 ### Key aspects
 - **1st Place winner** -> GenAI Datathon 2025
-- **94% accuracy** -> In anomaly detection across financial datasets
 - **Real-time processing** -> Handles 10,000+ data points per second
 - Developed in collaboration with Société Générale
 
@@ -116,14 +115,6 @@ The application will open in your default browser at `http://localhost:8501`
 - **Quality control** - The generated Anomaly Report (PDF) can be used for Audit Reports
 - **Chatbot interface** - Non-technical users can inquire anything about the provided data
 - **Visual analytics capabilities** - Enables business professionals to extract insights without technical expertise through customizable filtering and visualization tools
-
-## Performance metrics
-
-| Metric | Value |
-|--------|-------|
-| Accuracy | 94% |
-| Processing speed | 10,000+ records/sec |
-| Report generation | < 10 seconds |
 
 ## Architecture
 
